@@ -1,0 +1,2 @@
+registryminh.zabi.tech:5099/minh-front:1.0.1_2023.06.01
+registryminh.zabi.tech:5099/minh-front:1.0.1_2023.06.01

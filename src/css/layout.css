@@ -1,0 +1,6 @@
+.left-panel-wrapper {
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    height: 100%;
+}
